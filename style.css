@@ -1,0 +1,102 @@
+           
+           body { background-color: rgb(255, 255, 255)
+           }
+           .HistoryOfBarca {background-color: rgb(114, 113, 113);
+            font-size: 70px;
+            text-align: center;
+            border: rgb(114, 113, 113) solid 20px;
+            color: rgb(0, 0, 0);
+           }
+           .buscador {
+             background-color: rgb(114, 113, 113);
+             color: rgb(114, 113, 113);
+           }
+           .pIntro {
+             text-align: center;
+             text-decoration: solid;
+             font-size: large;
+           }
+           .Contenido{ 
+            font-size: 60px;
+            color: rgb(0, 0, 0);}
+           .contenido_central {
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+           }
+           ol{
+             color: rgb(0, 0, 0);
+           }
+           .titHistoria {
+            color: rgb(0, 0, 0);
+            background-color: rgb(114, 114, 117);
+            text-align: center;
+            font-size: 50px; 
+           }
+           .titSimbologia{
+            color: white; 
+            background-color: blue;
+            text-align: center; 
+            font-size: 50px;
+           }
+           .titInfraes {
+            color: white; 
+            background-color: blue;
+            text-align: center; 
+            font-size: 50px;
+           }
+           .hNacim {
+            font-size: 35px;
+           }
+           .hClub{
+            font-size: 35px;
+           }
+           .hGuardiola{
+            font-size: 35px;
+           }
+           .hEscudo {
+           font-size: 35px;
+           }
+           .hIndum {
+            font-size: 35px;
+           }
+           .hEstadio {
+            font-size: 35px;
+           }
+           .pNacim {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pClub {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pGuar {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pEscu {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pIndu {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pEsta {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .pFinal {
+            font-family: monospace; 
+            border: gray solid 2px;
+           }
+           .hOtras {
+            font-size: 35px;
+           }
+           .liOtras {
+             font-family: monospace;
+           }
+           .table {
+             align-content: center;
+           }
